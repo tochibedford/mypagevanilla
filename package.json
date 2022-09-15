@@ -1,0 +1,25 @@
+{
+  "name": "mypagevanilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tochibedford/mypagevanilla.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tochibedford/mypagevanilla/issues"
+  },
+  "homepage": "https://github.com/tochibedford/mypagevanilla#readme",
+  "dependencies": {
+    "custom-curses": "^0.1.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
